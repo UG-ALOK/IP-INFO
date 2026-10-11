@@ -72,9 +72,9 @@ Illustrative layout only - values below are placeholders, not real lookup result
 ## Installation (Termux)
 
 ```bash
-pkg update && pkg install python git
-git clone <your-repository-url> IP-INFORMATION-GATHERING
-cd IP-INFORMATION-GATHERING
+pkg update && pkg install python
+git clone https://github.com/UG-ALOK/IP-INFO.git
+cd IP-INFO
 bash install.sh
 ```
 
@@ -118,7 +118,7 @@ For private, loopback, link-local and other non-global addresses, the app shows 
 | Output wraps on a small screen | Rotate the phone or reduce the terminal font size. |
 
 ## Disclaimer
-
+🙏
 **Disclaimer:** This tool is provided for educational purposes and legitimate network diagnostics only. The developer is not responsible for illegal activities, misuse, unauthorized access, or damages resulting from the use of this software. Users are solely responsible for complying with applicable laws and obtaining proper authorization before conducting network-related activities.
 
 This disclaimer does not remove or replace any legal responsibility, and it does not guarantee protection from liability. Use the tool responsibly.
